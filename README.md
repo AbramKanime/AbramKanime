@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://github.com/maranathaadesanya">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Abraham+Kanime;Software+Engineer+%7C+Frontend+Engingeer" alt="Typing SVG" />
+<a href="https://github.com/AbramKanime">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Abraham+Kanime;Software+Engineer+%7C+Frontend+Engineer" alt="Typing SVG" />
 </a>
 <br/>
 
