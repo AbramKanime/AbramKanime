@@ -15,7 +15,7 @@
 <br/>
 
 <a href="https://github.com/AbramKanime">
-    <img src="https://github-stats-alpha.vercel.app/api?username=maranathaadesanya&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=AbramKanime&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
 <details>
